@@ -323,6 +323,22 @@ a:focus {
 
 /*end header section*/
 /* slider section */
+.contenedor-item{
+  width: 100%;
+  max-width: 1800px;
+  margin: auto;
+  padding: 40px 0;
+  
+
+}
+.item-slide{
+  max-width: 900px;
+  float: inline-start;
+}
+
+.img-slide{
+  max-width: 100%;
+}
 .slider_section {
   -webkit-box-flex: 1;
       -ms-flex: 1;
@@ -360,7 +376,7 @@ a:focus {
 }
 
 .slider_section .detail-box p {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .slider_section .detail-box a {
@@ -386,9 +402,9 @@ a:focus {
 .slider_section .carousel-indicators {
   position: unset;
   margin: 0;
-  -webkit-box-pack: start;
+  -webkit-box-pack: center;
       -ms-flex-pack: start;
-          justify-content: flex-start;
+          justify-content: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -990,13 +1006,13 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   color: #222831;
-  width: 30px;
+  width: 40px;
   height: 30px;
   border-radius: 100%;
-  background-color: #ffffff;
+  background-color:#222831;
   border-radius: 100%;
   margin: 0 2.5px;
-  font-size: 18px;
+  font-size: 30px;
 }
 
 .footer_section .footer_social a:hover {
