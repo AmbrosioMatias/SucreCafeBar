@@ -336,6 +336,10 @@ a:focus {
   float: inline-start;
 }
 
+.item-fix{
+  padding-left: 7%;
+}
+
 .img-slide{
   max-width: 100%;
 }
