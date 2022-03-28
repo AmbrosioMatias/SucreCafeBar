@@ -339,7 +339,7 @@ a:focus {
 }
 
 .img-slide{
-  max-width: 100%;
+  max-width: 75%;
 }
 .slider_section {
   -webkit-box-flex: 1;
@@ -368,7 +368,7 @@ a:focus {
 
 .slider_section .detail-box {
   color: #ffffff;
-  margin-bottom: 145px;
+  margin-bottom: 75px;
 }
 
 .slider_section .detail-box h1 {
