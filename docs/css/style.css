@@ -937,7 +937,7 @@ a:focus {
 }
 
 .footer_section h4 {
-  font-size: 28px;
+  font-size: 40px;
 }
 
 .footer_section h4,
@@ -1033,5 +1033,34 @@ a:focus {
 
 .footer_section .footer-info p a {
   color: inherit;
+}
+
+.item-footer{
+  font-family: 'Bebas Neue', cursive;
+  color: #ffffff;
+  text-align: center;
+  /*
+  position:relative;
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box;
+  display:inline-block;
+  margin-bottom: 30px;
+  align-items:center;
+  */
+}
+
+.brand1foot{
+  font-size: 150px;
+  height: 165px;
+  /*box-sizing: border-box;*/
+  
+}
+
+.brand2foot{
+  font-size: 37px;
+  /*box-sizing: border-box*/
+
+
 }
 /*# sourceMappingURL=style.css.map */
