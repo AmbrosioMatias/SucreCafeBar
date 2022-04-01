@@ -558,7 +558,11 @@ a:focus {
   height: 215px;
   border-radius: 0 0 0 45px;
   margin: -1px;
-  padding: 25px;*/
+  padding: 25px;
+  
+  esto fue agregado para que haya menos espacio entre cartas:*/
+  max-width: 400px;
+  max-height: 400px;
 }
 
 .food_section .box .img-box img {
@@ -943,7 +947,7 @@ a:focus {
 
 .footer_section h4,
 .footer_section .footer-logo {
-  font-weight: 600;
+  /*font-weight: 600; Esto le da una apariencia mas gruesa a la letra*/
   margin-bottom: 20px;
   font-family: 'Bebas Neue', cursive;
 }
@@ -1010,7 +1014,7 @@ a:focus {
           align-items: center;
   color: #222831;
   background: none;
-  font-size: 60px;
+  font-size: 50px;
   padding-left: 5%;
   padding-right: 5%;
 
