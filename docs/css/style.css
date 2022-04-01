@@ -51,7 +51,7 @@ h2 {
           flex-direction: column;
   -webkit-box-align: start;
       -ms-flex-align: start;
-          align-items: flex-start;
+          align-items: center;
 }
 
 .heading_container h2 {
@@ -649,6 +649,11 @@ a:focus {
   background: #222831;
   color: #ffffff;
 }
+.about_section2{
+  color:#000000;
+  background:#ffffff ;
+}
+
 
 .about_section .row {
   -webkit-box-align: center;
@@ -1054,4 +1059,7 @@ a:focus {
 
 
 }
+
+
+
 /*# sourceMappingURL=style.css.map */
